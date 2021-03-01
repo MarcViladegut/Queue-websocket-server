@@ -1,22 +1,14 @@
 {
-  "name": "websocket-server",
+  "name": "08-websocket-server",
   "version": "1.0.0",
-  "description": "A small server that uses a web socket to connect to the client. I used a socket.io library to develop it.",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/MarcViladegut/websocket-server.git"
+    "start": "node app.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/MarcViladegut/websocket-server/issues"
-  },
-  "homepage": "https://github.com/MarcViladegut/websocket-server#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",

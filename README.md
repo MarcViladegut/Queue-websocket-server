@@ -1,2 +1,5 @@
-# websocket-server
-A small server that uses a web socket to connect to the client. I used a socket.io library to develop it.
+# Socket Server Basico
+
+Un servidor de Websockets usando Node, Express y Socket.io
+
+Temas cubiertos en mi curso de Node de cero a experto
